@@ -7,3 +7,5 @@ xgboost
 ydata-profiling
 scipy
 jupyter
+nbformat
+plotly
