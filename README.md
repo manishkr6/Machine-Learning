@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="images/header.png" alt="Machine Learning Banner" width="100%">
-</div>
-
 # 🧠 Machine Learning & AI Journey
 
 Welcome to the ultimate repository for mastering Machine Learning and Artificial Intelligence! This repository is organized systematically to take you from foundational Python libraries and data preprocessing all the way to advanced deep learning and reinforcement learning.
